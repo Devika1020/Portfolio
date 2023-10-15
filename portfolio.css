@@ -40,12 +40,14 @@
         text-decoration: none;
         color:black;
     }
-   
     #d4{
-        margin-left: -2px;
+        margin-left: 5px;
     }
+    .a13{
+        width: 85%;
     
- 
+       
+    }
 }
 .pp{
     text-decoration: none;
@@ -66,12 +68,6 @@
         height: 200px;
         border: solid 2px;
     }
-    .a13{
-        width: 90%;
-        height: 200px;
-       
-    }
-
 
 .a18:hover{
     height: 500px;
