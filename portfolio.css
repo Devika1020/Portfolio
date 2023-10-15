@@ -40,16 +40,11 @@
         text-decoration: none;
         color:black;
     }
-    .a5{
-        margin-left: 5px;
-        width: 80%;
-    }
+   
     #d4{
         margin-left: -2px;
     }
-    #l1{
-        font-size: 10px;
-    }
+    
  
 }
 .pp{
@@ -71,6 +66,12 @@
         height: 200px;
         border: solid 2px;
     }
+    .a11{
+        width: 80%;
+        height: 200px;
+       
+    }
+
 
 .a18:hover{
     height: 500px;
