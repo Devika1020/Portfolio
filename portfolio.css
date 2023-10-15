@@ -40,14 +40,27 @@
         text-decoration: none;
         color:black;
     }
-    #d4{
-        margin-left: 5px;
+    #l1{
+        margin-left: 15px;
+    }
+    #l2{
+        margin-left: 20px;
+    }
+    #l3{
+        margin-left: 25px;
+    }
+    #l4{
+        margin-left: 30px;
+    }
+    .i1{
+        margin-left: 100px;
     }
     .a13{
         width: 85%;
     
        
     }
+    
 }
 .pp{
     text-decoration: none;
